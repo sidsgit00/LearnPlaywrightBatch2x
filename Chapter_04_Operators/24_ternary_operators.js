@@ -10,3 +10,5 @@ console.log("Can vote:", canVote); // No
 let score = 85;
 let grade = score >= 90 ? "A" : score >= 80 ? "B" : "C";
 console.log("Grade:", grade); // B
+
+let x = 10;

@@ -9,6 +9,8 @@ console.log(true && false); // false
 console.log(5 && 0);               // 0 (first falsy)
 console.log(5 && 10);             // 10 (both truthy, return last)
 
+
+
 // Typical usage:
 let isLoggedIn = true;
 let hasPermission = true;
